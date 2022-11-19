@@ -1,0 +1,33 @@
+iv{
+    margin: 0 auto;
+    width: 500px;
+    border: 1px solid violet ;
+    text-align: center;
+    background-color: thistle;
+    color: darkmagenta;
+}
+
+body{
+    background-color: whitesmoke ;
+}
+
+ol{
+    text-align: left;
+}
+
+.paraFazer{
+    color: red;
+}
+.feitas{
+    color: green;
+} 
+
+button{
+    color: white;
+    background-color: darkmagenta;
+    margin-left: 10px; 
+}
+
+.teste{
+    color: yellowgreen;
+}
